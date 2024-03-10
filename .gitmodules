@@ -1,0 +1,6 @@
+[submodule "admin"]
+	path = admin
+	url = git@github.com:KobzarA/admin-react-ts.git
+[submodule "server"]
+	path = server
+	url = git@github.com:KobzarA/server-nest.git
